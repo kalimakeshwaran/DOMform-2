@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#form{
+    text-align: center;
+    box-shadow: 2px 2px 5px gray;
+    width:30%;
+    margin:6em auto;
+
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    text
+}
